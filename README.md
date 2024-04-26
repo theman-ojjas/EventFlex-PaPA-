@@ -33,7 +33,7 @@ We have developed a Decentralized Event Payment System that allows attendees to 
   
 | What to set in .env               | Where to make the account                      |
 |-----------------------------------|------------------------------------------------|
-| `REACT_APP_PRIVATE_KEY`           | [Your MetaMask Private Key]<https://metamask.io/> |
+| `REACT_APP_PRIVATE_KEY`           | [Your MetaMask Private Key](<https://metamask.io/>) |
 | `ETHERSCAN_KEY`                   | [EtherScan API Key](https://etherscan.io/login) |
 | `EPNS_PK`                         | [Push Protocol API Key](https://push.org/)     |
 | `REACT_APP_ALCHEMY_API_KEY`       | [Alchemy API Key](https://www.alchemy.com/)    |
