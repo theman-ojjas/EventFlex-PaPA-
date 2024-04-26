@@ -1,4 +1,4 @@
-#EventFlex - PaPA(Pay Per Attendance Protocol)
+# EventFlex - PaPA(Pay Per Attendance Protocol)
 ## Problem Statement
 
 In the realm of decentralized autonomous organizations (DAOs), event organization faces a pivotal challenge: outdated payment systems. Enter our solution – a groundbreaking Decentralized Event Payment System. DAO events on platforms like Discord attract diverse participants, but current NFT-based access and fixed fees don't cater to modern needs. Our system offers flexible payment based on attendance duration, leveraging blockchain tech like Chainlink and IPFS for seamless, secure transactions. It fosters community engagement and loyalty through features like SuperFluid-powered streams and NFT integration.
