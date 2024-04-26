@@ -34,13 +34,13 @@ We have developed a Decentralized Event Payment System that allows attendees to 
 | What to set in .env               | Where to make the account                      |
 |-----------------------------------|------------------------------------------------|
 | `REACT_APP_PRIVATE_KEY`           | [Your MetaMask Private Key](<https://metamask.io/>) |
-| `ETHERSCAN_KEY`                   | [EtherScan API Key](https://etherscan.io/login) |
-| `EPNS_PK`                         | [Push Protocol API Key](https://push.org/)     |
-| `REACT_APP_ALCHEMY_API_KEY`       | [Alchemy API Key](https://www.alchemy.com/)    |
-| `REACT_APP_QUICK_NODE_URL`        | [QuickNode API Key](https://www.quicknode.com/)|
-| `REACT_APP_MORALIS_APP_ID`        | [Moralis APP ID](https://moralis.io/)|
-| `REACT_APP_COVALENT_API`        | [Covalent API Key](https://www.covalenthq.com/docs/api/)|
-| `DISCORDJS_BOT_TOKEN`        | [Discord Bot Token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)|
+| `ETHERSCAN_KEY`                   | [EtherScan API Key](<https://etherscan.io/login>) |
+| `EPNS_PK`                         | [Push Protocol API Key](<https://push.org/>)     |
+| `REACT_APP_ALCHEMY_API_KEY`       | [Alchemy API Key](<https://www.alchemy.com/>)    |
+| `REACT_APP_QUICK_NODE_URL`        | [QuickNode API Key](<https://www.quicknode.com/>)|
+| `REACT_APP_MORALIS_APP_ID`        | [Moralis APP ID](<https://moralis.io/>)|
+| `REACT_APP_COVALENT_API`        | [Covalent API Key](<https://www.covalenthq.com/docs/api/>)|
+| `DISCORDJS_BOT_TOKEN`        | [Discord Bot Token](<https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token>)|
 
 - Run the following commands:
   - `npm i`
