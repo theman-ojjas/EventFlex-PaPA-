@@ -29,6 +29,7 @@ We have developed a Decentralized Event Payment System that allows attendees to 
 
 - Create a metamask account and add Polygon Mumbai network from <https://chainlist.org/>
 - Make a `.env` file and add the following items:
+  
 | What to set in .env               | Where to make the account                      |
 |-----------------------------------|------------------------------------------------|
 | `REACT_APP_PRIVATE_KEY`           | [Your MetaMask Private Key](https://metamask.io/) |
